@@ -47,7 +47,7 @@ Pontosan tudom, hogy nem lehet vegytisztán „tudományról” beszélni, mint 
 
 Mindebben mellesleg az is szép, hogy ez az eljárás _akkor is_ alkalmatlan az ott zajló munka javítására, ha _tényleg_ baj van: ha tényleg fejjel lefelé töltötték be a műholdképet a számítógépbe, akkor is csak egy vizsgálat eredményeként tudhatnánk ezt. (Elég ironikus módon ezt az [OMSZ kéri]( https://www.facebook.com/orszagosmeteorologiaiszolgalat/posts/443697931119992), még ironikusabb módon egyelőre eredménytelenül.) Hogy rossz az ott folyó munka színvonala? Rendben, lássuk a számokat! Nézzünk egy jelentést az elmúlt hónap, év, évtized OMSZ-os előrejelzéseivel, mellé rakva a megvalósult tényadatokat, ebből kiszámolt beválási arányt. Mellette a szakirodalom szerint elvárható érték, a hasonló nemzetközi szervezetek adatai.
 
-– na ez az, aminek nyoma sincs. Persze, hogy nincs, mert ez nem erről szól. Ez nyilvánvaló, meglepő maximum az lehet, hogy már _annyira sem_ érdekli őket az egész, hogy legalább egy kamu-tanulmányt készíttessenek, amire lehet hivatkozni, hogy nem helytállóak az OMSZ-előrejelzések. Talán ez is az üzenet része.
+– na ez az, aminek nyoma sincs. Persze, hogy nincs, mert ez nem erről szól. Ez nyilvánvaló, meglepő maximum az lehet, hogy már _annyira sem_ érdekli őket az egész, hogy legalább egy kamu-tanulmányt készíttessenek, amire lehet hivatkozni, hogy nem helytállóak az OMSZ előrejelzései. Talán ez is az üzenet része.
 
 És van még egy, harmadik vetülete a kérdésnek, ami félig-meddig az én területembe vág.
 
