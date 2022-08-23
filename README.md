@@ -1,0 +1,2 @@
+# GondolatokAzOMSZVezetoinekKirugasaKapcsan
+Gondolatok az OMSZ vezetőinek kirúgása kapcsán
